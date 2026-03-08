@@ -2,3 +2,8 @@ pandas
 openpyxl
 streamlit
 matplotlib
+streamlit
+pandas
+numpy
+scikit-learn
+psutil
